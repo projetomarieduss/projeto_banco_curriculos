@@ -1,1 +1,2 @@
-# projeto_banco_curriculos
+### Projeto Banco de Currículos
+Base de dados: projeto
